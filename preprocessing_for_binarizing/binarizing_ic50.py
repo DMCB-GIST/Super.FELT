@@ -1,6 +1,6 @@
 # This code is based on 
 # 'Logic models to predict continuous outputs based on binary inputs with an application to personalized cancer therapy'
-# by TA Knijnenburg.
+# written by TA Knijnenburg.
 
 import numpy as np
 import pandas as pd
